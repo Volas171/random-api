@@ -1,0 +1,19 @@
+Python Bots:
+[0]o7-Linux-VM-Python-Bot https://o7-Linux-VM-Python-Bot.o7fire.repl.co
+[1]o7-Python-Bot https://o7-Secured-Python-Bot.o7fire.repl.co
+[2]o7-Experimental-Python-Bot https://o7-Experimental-Python-Bot-1.o7fire.repl.co
+
+Experimental:
+[0]o7-Neural-Network-Bot https://o7-Neural-Network-Chatbot.o7fire.repl.co
+[1]o7-Experimental-Captcha-Bot https://o7-Experimental-Captcha-Bot.o7fire.repl.co
+[2]o7-Ping-Bot https://ping-someone-rforerver.o7fire.repl.co
+[3]o7-Anti-Government-Bot https://o7-Anti-Government-Bot.o7fire.repl.co
+
+Miscellaneous:
+[0]o7-Gambling-Bot https://o7-Rigged-Gambling-Bot.nexitysecond.repl.co
+[1]o7-Counting-Bot https://o7-Counting-Bot.nexitysecond.repl.co
+[2]o7-ChatBot https://discord-censor-bot.nexitysecond.repl.co
+[3]o7-Hub-Bot https://o7-Hub-Bot.o7fire.repl.co
+
+Websites:
+[0]o7-Main https://o7fire.ml
