@@ -4,7 +4,7 @@ import subprocess
 import re
 import os
 
-TOKEN = "ODQxMjIxMDUwNTExMjYxNjk3.YJjmJw.4G9TfOeePZu1PCY1eyZSxZ20i_s"
+TOKEN = ""
 client = discord.Client()
 val = 0
 
